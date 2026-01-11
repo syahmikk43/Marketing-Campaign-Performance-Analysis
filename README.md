@@ -15,7 +15,7 @@ The project follows a real-world analytics workflow, beginning with data validat
   
 ---
 
-# Business Problem
+## Business Problem
 Marketing teams often invest heavily across multiple channels and campaign types, but struggle to answer key questions such as:
 - Which channels and campaign types generate the highest ROI?
 - Are acquisition costs aligned with conversion performance?
@@ -27,7 +27,7 @@ This project addresses these questions by transforming raw campaign data into cl
 
 ---
 
-# Dataset Description
+## Dataset Description
 The dataset contains 200,000 unique marketing campaigns, with the following key attributes:
 
 | Column Name | Description |
@@ -48,8 +48,18 @@ Core Performance Metrics:
 -	Engagement Score
 
 ---
+## Executive Summary
+This project analyses approximately 200,000 marketing campaigns over two years to evaluate marketing effectiveness across channels, campaign types, customer segments, geographies, and time.
 
-# Key Findings & Insights
+Overall performance is consistently profitable, with an average ROI of approximately 500% and a stable conversion rate of ~8%, indicating a reliable acquisition funnel and strong baseline execution across campaigns. Acquisition costs remain tightly controlled, suggesting disciplined budget management.
+
+While performance is strong across the board, the analysis reveals that not all channels, segments, and campaign strategies contribute equally to results. Email and Website channels demonstrate superior cost efficiency, while Influencer and Social Media campaigns drive higher conversion rates. Customer response varies meaningfully by segment, geography, language, and campaign duration.
+
+The findings indicate that future performance gains will come from optimisation rather than increased spend, particularly through improved channel allocation, audience targeting, localisation, and campaign duration planning.
+
+---
+
+## Insight Deep Dive
 ### Overall Campaign Performance
 -	Marketing campaigns achieve a consistently strong average ROI of ~500%.
 -	Conversion rates remain stable at approximately 8%, indicating a reliable acquisition funnel.
@@ -73,7 +83,8 @@ Core Performance Metrics:
 
 ---
 
-# Business Recommendations
+## Business Recommendations
+
 Based on the analysis, the following strategic recommendations are proposed:
 -	Reallocate more budget toward Email and Website channels to improve efficiency.
 -	Scale Influencer and Social Media campaigns for conversion-focused objectives.
