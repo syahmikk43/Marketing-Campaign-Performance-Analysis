@@ -51,15 +51,15 @@ Core Performance Metrics:
 ## Executive Summary
 This project evaluates marketing campaign performance in 2021 using SQL-based data analysis and interactive Power BI dashboards. The goal is to assess effectiveness across channels, campaign types, customer segments, geographies, and time, and to determine whether the data supports clear optimisation actions.
 
-The analysis finds that campaign performance is highly consistent across all dimensions, with key metrics such as ROI, conversion rate, CTR, and acquisition cost showing minimal variation. No channel, segment, or market materially outperforms others at an aggregate level, indicating a controlled and standardised execution model rather than isolated performance gaps.
+The analysis finds that campaign performance is **highly consistent across all dimensions**, with key metrics such as ROI, conversion rate, CTR, and acquisition cost showing minimal variation. No channel, segment, or market materially outperforms others at an aggregate level, indicating a controlled and standardised execution model rather than isolated performance gaps.
 
-As a result, the primary value of this analysis is the establishment of a reliable performance baseline for monitoring, governance, and anomaly detection. The findings suggest that meaningful optimisation would require more granular or experimental data rather than further aggregation.
+As a result, the primary value of this analysis is the establishment of a **reliable performance baseline** for monitoring, governance, and anomaly detection. The findings suggest that meaningful optimisation would require more granular or experimental data rather than further aggregation.
 
 ---
 
 ## Insight Deep Dive
 ### Overall Campaign Performance
-Across the 2021 period, marketing campaigns exhibit **highly consistent performance**, with average ROI clustering tightly around 500 percent and conversion rates remaining near 8 percent across all channels and campaign types. The narrow performance range indicates a well-controlled marketing execution environment rather than isolated high- or low-performing initiatives. Acquisition costs show similarly limited variation, reinforcing that profitability is driven by standardized execution rather than aggressive risk-taking.
+Across the 2021 period, marketing campaigns exhibit **highly consistent performance**, with average ROI clustering tightly around 500 percent and conversion rates remaining near 8 percent across all channels and campaign types. The narrow performance range indicates a well-controlled marketing execution environment rather than isolated high- or low-performing initiatives. Acquisition costs show similarly limited variation, reinforcing that profitability is driven by standardised execution rather than aggressive risk-taking.
 
 ### Channel & Campaign Efficiency
 Analysis by channel and campaign type shows **minimal variance in average ROI and conversion rates**, with differences falling within a narrow band. This suggests that no single channel or campaign type materially outperforms others at an aggregate level. The consistency implies that channel selection alone is unlikely to drive significant performance gains under the current strategy, and that channel mix decisions are being executed with comparable effectiveness.
@@ -75,7 +75,7 @@ Time-based analysis shows stable ROI throughout the year, with only modest seaso
 
 ---
 
-## Business Recommendations
+## Recommendations
 -	**Maintain current budget allocation across channels**, as the data does not indicate material efficiency differences that would justify reallocating spend without introducing additional risk.
 -	**Use the established performance ranges as control thresholds**, enabling marketing teams to quickly identify underperforming campaigns when metrics vary from expected norms.
 -	**Introduce targeted pilot campaigns with differentiated strategies** (e.g., creative, audience depth, or channel mix) to deliberately test whether variance can be created and exploited, rather than assuming it already exists.
