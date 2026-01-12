@@ -1,10 +1,10 @@
 # Marketing-Campaign-Performance-Analysis
 ## Project Overview
-This project presents an end-to-end analysis of a Marketing Campaign Performance Dataset containing approximately 200,000 campaign records spanning two years. The dataset captures campaign-level information across multiple companies, marketing channels, customer segments, geographic locations, languages, and time periods.
+This project presents an end-to-end analysis of a **Marketing Campaign Performance Dataset** containing approximately 200,000 campaign records. The dataset captures campaign-level information across multiple companies, marketing channels, customer segments, geographic locations, languages, and time periods.
 
-The objective of this project is to evaluate campaign effectiveness, identify optimisation opportunities, and support data-driven marketing decisions using structured SQL analysis and interactive Power BI dashboards.
+The objective of this project is to **evaluate campaign effectiveness**, **validate performance consistency**, **identify potential optimisation constraints**, and support data-driven marketing decisions using structured SQL analysis and interactive Power BI dashboards.
 
-The project follows a real-world analytics workflow, beginning with data validation and preparation in SQL, followed by modelling, KPI creation, and storytelling using Power BI.
+The project follows a **real-world analytics workflow**, beginning with data validation and preparation in SQL, followed by modelling, KPI creation, and storytelling using Power BI.
 
 #### Resources :
 - The original dataset is available [here](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset?utm%5C_source=chatgpt.com).
@@ -23,12 +23,12 @@ Marketing teams often invest heavily across multiple channels and campaign types
 - Do geography, language, or campaign duration impact performance?
 - How does performance evolve over time?
 
-This project addresses these questions by transforming raw campaign data into clear, actionable insights that can guide marketing strategy and budget allocation.
+This project addresses these questions by transforming raw campaign data into **clear, actionable insights** that can guide marketing strategy and budget allocation.
 
 ---
 
 ## Dataset Description
-The dataset contains 200,000 unique marketing campaigns, with the following key attributes:
+The dataset contains **200,000~ unique marketing campaigns**, with the following key attributes:
 
 | Column Name | Description |
 |--------------|-------------|
@@ -49,13 +49,11 @@ Core Performance Metrics:
 
 ---
 ## Executive Summary
-This project analyses approximately 200,000 marketing campaigns over two years to evaluate marketing effectiveness across channels, campaign types, customer segments, geographies, and time.
+This project evaluates marketing campaign performance in 2021 using SQL-based data analysis and interactive Power BI dashboards. The goal is to assess effectiveness across channels, campaign types, customer segments, geographies, and time, and to determine whether the data supports clear optimisation actions.
 
-Overall performance is consistently profitable, with an average ROI of approximately 500% and a stable conversion rate of ~8%, indicating a reliable acquisition funnel and strong baseline execution across campaigns. Acquisition costs remain tightly controlled, suggesting disciplined budget management.
+The analysis finds that campaign performance is highly consistent across all dimensions, with key metrics such as ROI, conversion rate, CTR, and acquisition cost showing minimal variation. No channel, segment, or market materially outperforms others at an aggregate level, indicating a controlled and standardised execution model rather than isolated performance gaps.
 
-While performance is strong across the board, the analysis reveals that not all channels, segments, and campaign strategies contribute equally to results. Email and Website channels demonstrate superior cost efficiency, while Influencer and Social Media campaigns drive higher conversion rates. Customer response varies meaningfully by segment, geography, language, and campaign duration.
-
-The findings indicate that future performance gains will come from optimisation rather than increased spend, particularly through improved channel allocation, audience targeting, localisation, and campaign duration planning.
+As a result, the primary value of this analysis is the establishment of a reliable performance baseline for monitoring, governance, and anomaly detection. The findings suggest that meaningful optimisation would require more granular or experimental data rather than further aggregation.
 
 ---
 
@@ -92,5 +90,12 @@ Based on the analysis, the following strategic recommendations are proposed:
 -	Refresh creative strategy for underperforming segments such as Fashionistas.
 -	Expand localised and multilingual campaigns to reduce market saturation.
 -	Standardise campaign planning around 30–50 day durations.
+
+---
+
+Limitations
+- The lack of natural performance variance limits prescriptive decision-making, as the data does not strongly favor one channel, segment, or market over another.
+- Controlled Environment Bias: The dataset reflects a very stable period. It may not account for external factors like sudden market shifts, seasonal changes, or aggressive competitor moves.
+- No Evidence of Causality: This analysis shows us what is happening, but it doesn't prove why. Therefore, we lack the experimental proof needed to justify drastic moves like doubling a budget or shutting a channel down entirely.
 
 
