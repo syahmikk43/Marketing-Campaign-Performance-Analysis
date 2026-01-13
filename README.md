@@ -90,11 +90,3 @@ Time-based analysis shows stable ROI throughout the year, with only modest seaso
 -	**Align channel usage with strategic intent rather than Efficiency**, such as using certain channels for brand visibility and others for acquisition, given their comparable efficiency outcomes.
 -	**Treat this dashboard as a baseline monitoring tool**, supporting ongoing decision-making rather than one-time optimisation.
 
----
-
-## Limitations
-- **The lack of natural performance variance limits prescriptive decision-making**, as the data does not strongly favor one channel, segment, or market over another.
-- **Controlled Environment Bias:** The dataset reflects a very stable period. It may not account for external factors like sudden market shifts, seasonal changes, or aggressive competitor moves.
-- **No Evidence of Causality:** This analysis shows us what is happening, but it doesn't prove why. Therefore, we lack the experimental proof needed to justify drastic moves like doubling a budget or shutting a channel down entirely.
-
-
